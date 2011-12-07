@@ -16,7 +16,7 @@ Check out all 3 of these into 1 dir:
 
 ## Symlinks
 
-* Printrun/sfact_profiles -> mendels/sfact_profiles
+* Printrun/sfact_profiles -> ../mendels/sfact_profiles
 * Printrun/skeinforge -> ../SFACT
 
 Eventually we'll document how to flash the tuned firmware from the mendels repository, but not yet.
